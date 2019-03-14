@@ -4,7 +4,7 @@
 <!------ Include the above in your HEAD tag ---------->
 
 <h3 class="panel-title">
-                       Test git</h3>
+                       Test git      vtest cdfdf fsdf</h3>
 <div class="container">
     <div class="row">
         <div class="col-md-4">
